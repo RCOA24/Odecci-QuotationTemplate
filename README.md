@@ -24,7 +24,7 @@ It includes sections for company details, client details, service breakdown, pay
 
 ## Structure
 
-The template contains the following key sections: [attached_file:3]
+The template contains the following key sections: 
 
 - **Company Header** – Odecci Solutions Inc. name, address, and primary contact email.  
 - **Quotation Title Block** – Prominent “QUOTATION” label plus quote number, sales order number, date, and approval status.  
@@ -58,3 +58,4 @@ The template contains the following key sections: [attached_file:3]
 
 This quotation template was developed as part of an internship at **Odecci Solutions Inc.**, alongside other internal tools such as the CRM and Employee Management System front-end.  
 The focus of this deliverable was on clean layout, readability, and consistency with the company’s branding while keeping it easy for non-technical staff to reuse and edit. 
+
